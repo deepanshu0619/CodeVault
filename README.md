@@ -6,12 +6,27 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/deepanshu0619/CodeVault/tree/master/0075-sort-colors) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/deepanshu0619/CodeVault/tree/master/0075-sort-colors) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/deepanshu0619/CodeVault/tree/master/0075-sort-colors) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
