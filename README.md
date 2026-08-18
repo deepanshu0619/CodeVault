@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/deepanshu0619/CodeVault/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/deepanshu0619/CodeVault/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/deepanshu0619/CodeVault/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0904-fruit-into-baskets](https://github.com/deepanshu0619/CodeVault/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepanshu0619/CodeVault/tree/master/1004-max-consecutive-ones-iii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/deepanshu0619/CodeVault/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/deepanshu0619/CodeVault/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/deepanshu0619/CodeVault/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/deepanshu0619/CodeVault/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/deepanshu0619/CodeVault/tree/master/0844-backspace-string-compare) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/deepanshu0619/CodeVault/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepanshu0619/CodeVault/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -100,4 +103,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/deepanshu0619/CodeVault/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/deepanshu0619/CodeVault/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/deepanshu0619/CodeVault/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/deepanshu0619/CodeVault/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
