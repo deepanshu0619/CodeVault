@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0018-4sum](https://github.com/deepanshu0619/CodeVault/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/deepanshu0619/CodeVault/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/deepanshu0619/CodeVault/tree/master/0287-find-the-duplicate-number) |
@@ -119,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/deepanshu0619/CodeVault/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
