@@ -1,76 +1,75 @@
 class Solution {
+    public int calNext(int nums[],int curr){
+        int next=curr;
+        int seq=nums[curr];
+        if(nums[curr]>0){
+        next=(next+seq)%nums.length;
+        }else{
+            int mod=seq%nums.length;
+            int forward=nums.length+mod;
+            next=(curr+forward)% nums.length;
+        }
+        return next;
+    }
     public boolean circularArrayLoop(int[] nums) {
-
-        int n = nums.length;
-
-        for (int i = 0; i < n; i++) {
-
-            // Try every index as starting point
-            int slow = i;
-            int fast = i;
-
-            boolean forward = nums[i] > 0;
-
-            while (true) {
-
-                // Move slow one step
-                slow = nextIndex(nums, slow, forward);
-
-                // If direction changes, invalid
-                if (slow == -1) {
-                    break;
-                }
-
-                // Move fast first step
-                fast = nextIndex(nums, fast, forward);
-
-                if (fast == -1) {
-                    break;
-                }
-
-                // Move fast second step
-                fast = nextIndex(nums, fast, forward);
-
-                if (fast == -1) {
-                    break;
-                }
-
-                // Cycle found
-                if (slow == fast) {
-
-                    // Cycle must contain more than one element
-                    if (slow == nextIndex(nums, slow, forward)) {
+        for(int i=0;i<nums.length;i++){
+            int slow=i;
+            int fast=i;
+            
+            boolean isPos=nums[i]>0;
+            
+            if(nums[i]==0){
+                continue;
+            }
+             
+            do{
+                slow=calNext(nums,slow);
+                fast=calNext(nums,fast);
+                if(isPos){
+                    if(nums[fast]<0){
                         break;
                     }
+                }else{
+                     if(nums[fast]>0){
+                        break;
+                    }
+                }
+                fast=calNext(nums,fast);
+                 if(isPos){
+                    if(nums[fast]<0){
+                        break;
+                    }
+                }else{
+                     if(nums[fast]>0){
+                        break;
+                    }
+                }
 
-                    return true;
+                if(slow==fast){
+                    if(slow!=calNext(nums,slow)){
+                        return true;
+                    }
+                    break;
+                }
+            }while(slow!=fast);
+
+            int curr=i;
+            if(isPos){
+                while(nums[curr]>0){
+                    int next=calNext(nums,curr);
+                    nums[curr]=0;
+                    curr=next;
+                }
+               
+            }else{
+                  while(nums[curr]<0){
+                    int next=calNext(nums,curr);
+                    nums[curr]=0;
+                    curr=next;
                 }
             }
-        }
 
+        }
         return false;
-    }
-
-    private int nextIndex(int[] nums, int index, boolean forward) {
-
-        // Direction must remain the same
-        if ((nums[index] > 0) != forward) {
-            return -1;
-        }
-
-        int n = nums.length;
-
-        int next = (index + nums[index]) % n;
-
-        if (next < 0) {
-            next += n;
-        }
-
-        // Self-loop is not allowed
-        if (next == index) {
-            return -1;
-        }
-
-        return next;
     }
 }
