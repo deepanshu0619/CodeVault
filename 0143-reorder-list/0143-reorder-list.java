@@ -5,7 +5,7 @@ class Solution {
             return;
         }
 
-        // Find middle using slow and fast pointers
+        // Find middle
         ListNode slow = head;
         ListNode fast = head;
 
@@ -14,36 +14,35 @@ class Solution {
             fast = fast.next.next;
         }
 
-        // Reverse the half after middle
-        ListNode preMiddle = slow;
-        ListNode preCurrent = slow.next;
+        // Reverse second half
+        ListNode curr = slow.next;
+        ListNode next = null;
+        ListNode prev = null;
 
-        while (preCurrent.next != null) {
+        // Break first half from second half
+        slow.next = null;
 
-            ListNode current = preCurrent.next;
-
-            preCurrent.next = current.next;
-
-            current.next = preMiddle.next;
-
-            preMiddle.next = current;
+        while (curr != null) {
+            next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
         }
 
         // Start reordering
         slow = head;
-        fast = preMiddle.next;
+        fast = prev;
 
-        while (slow != preMiddle) {
+        while (fast != null) {
 
-            preMiddle.next = fast.next;
-
-            fast.next = slow.next;
+            ListNode slowNext = slow.next;
+            ListNode fastNext = fast.next;
 
             slow.next = fast;
+            fast.next = slowNext;
 
-            slow = fast.next;
-
-            fast = preMiddle.next;
+            slow = slowNext;
+            fast = fastNext;
         }
     }
 }
