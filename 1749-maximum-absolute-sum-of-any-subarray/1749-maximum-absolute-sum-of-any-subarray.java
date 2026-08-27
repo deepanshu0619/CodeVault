@@ -15,3 +15,22 @@ class Solution {
         return Math.max(maxsubarraysum,Math.abs(minsubarraysum));
     }
 }
+// class Solution {
+//     public int maxAbsoluteSum(int[] nums) {
+//         int sum = 0;
+//         int minPre = 0;
+//         int maxPre = 0;
+
+//         for (int num : nums) {
+//             sum += num;
+
+//             if (sum > maxPre)
+//                 maxPre = sum;
+
+//             if (sum < minPre)
+//                 minPre = sum;
+//         }
+
+//         return maxPre - minPre;
+//     }
+// }
