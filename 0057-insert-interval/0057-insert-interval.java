@@ -1,28 +1,24 @@
-import java.util.*;
-
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
-
-        ArrayList<int[]> result = new ArrayList<>();
         int i = 0;
+        List<int[]> result = new ArrayList<>();
+        int n = intervals.length;
 
-        // Before
-        while (i < intervals.length && intervals[i][1] < newInterval[0]) {
-            result.add(intervals[i]);
-            i++;
-        }
-
-        // Overlap
-        while (i < intervals.length && intervals[i][0] <= newInterval[1]) {
-            newInterval[0] = Math.min(newInterval[0], intervals[i][0]);
-            newInterval[1] = Math.max(newInterval[1], intervals[i][1]);
+        while (i < n) {
+            if (intervals[i][1] < newInterval[0]) {
+                result.add(intervals[i]);
+            } else if (intervals[i][0] > newInterval[1]) {
+                break;
+            } else {
+                // Merge the intervals and check further
+                newInterval[0] = Math.min(newInterval[0], intervals[i][0]);
+                newInterval[1] = Math.max(newInterval[1], intervals[i][1]);
+            }
             i++;
         }
 
         result.add(newInterval);
-
-        // After
-        while (i < intervals.length) {
+        while (i < n) {
             result.add(intervals[i]);
             i++;
         }
