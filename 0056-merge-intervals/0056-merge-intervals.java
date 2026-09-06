@@ -7,25 +7,25 @@ class Solution {
 
         ArrayList<int[]> result = new ArrayList<>();
 
-        int start = intervals[0][0];
-        int end = intervals[0][1];
+        int start1 = intervals[0][0];
+        int end1 = intervals[0][1];
 
         for (int i = 1; i < intervals.length; i++) {
 
-            if (intervals[i][0] <= end) {
-                // Overlapping
-                end = Math.max(end, intervals[i][1]);
-            } else {
-                // Non-overlapping
-                result.add(new int[]{start, end});
+            int start2 = intervals[i][0];
+            int end2 = intervals[i][1];
 
-                start = intervals[i][0];
-                end = intervals[i][1];
+            if (end1 >= start2) {
+                end1 = Math.max(end1, end2);
+            } else {
+                result.add(new int[]{start1, end1});
+
+                start1 = start2;
+                end1 = end2;
             }
         }
 
-        // Add last interval
-        result.add(new int[]{start, end});
+        result.add(new int[]{start1, end1});
 
         return result.toArray(new int[result.size()][]);
     }
