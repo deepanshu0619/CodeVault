@@ -1,30 +1,38 @@
 import java.util.*;
 
 class Solution {
-    public int[][] intervalIntersection(int[][] firstList, int[][] secondList) {
-        List<int[]> result = new ArrayList<>();
+    public int[][] intervalIntersection(int[][] a, int[][] b) {
+
+        List<int[]> res = new ArrayList<>();
 
         int i = 0, j = 0;
+        int n = a.length;
+        int m = b.length;
 
-        while (i < firstList.length && j < secondList.length) {
+        while (i < n && j < m) {
+
+            int start1 = a[i][0];
+            int end1 = a[i][1];
+
+            int start2 = b[j][0];
+            int end2 = b[j][1];
 
             // Find intersection
-            int start = Math.max(firstList[i][0], secondList[j][0]);
-            int end = Math.min(firstList[i][1], secondList[j][1]);
+            int s = Math.max(start1, start2);
+            int e = Math.min(end1, end2);
 
-            // Valid intersection
-            if (start <= end) {
-                result.add(new int[]{start, end});
+            if (s <= e) {
+                res.add(new int[]{s, e});
             }
 
-            // Move the interval that ends first
-            if (firstList[i][1] < secondList[j][1]) {
+            // Move interval which ends first
+            if (end1 <= end2) {
                 i++;
             } else {
                 j++;
             }
         }
 
-        return result.toArray(new int[result.size()][]);
+        return res.toArray(new int[res.size()][]);
     }
 }
