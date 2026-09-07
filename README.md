@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/deepanshu0619/CodeVault/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepanshu0619/CodeVault/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/deepanshu0619/CodeVault/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/deepanshu0619/CodeVault/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/deepanshu0619/CodeVault/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/deepanshu0619/CodeVault/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/deepanshu0619/CodeVault/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/deepanshu0619/CodeVault/tree/master/0986-interval-list-intersections) |
 ## Sorting
 |  |
 | ------- |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0327-count-of-range-sum) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/deepanshu0619/CodeVault/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
