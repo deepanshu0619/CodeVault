@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/deepanshu0619/CodeVault/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/deepanshu0619/CodeVault/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/deepanshu0619/CodeVault/tree/master/0844-backspace-string-compare) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepanshu0619/CodeVault/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/deepanshu0619/CodeVault/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/deepanshu0619/CodeVault/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/deepanshu0619/CodeVault/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepanshu0619/CodeVault/tree/master/0424-longest-repeating-character-replacement) |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/deepanshu0619/CodeVault/tree/master/0986-interval-list-intersections) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/deepanshu0619/CodeVault/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
