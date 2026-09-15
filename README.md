@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/deepanshu0619/CodeVault/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/deepanshu0619/CodeVault/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/deepanshu0619/CodeVault/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/deepanshu0619/CodeVault/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0209-minimum-size-subarray-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/deepanshu0619/CodeVault/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/deepanshu0619/CodeVault/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0327-count-of-range-sum) |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/deepanshu0619/CodeVault/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/deepanshu0619/CodeVault/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
