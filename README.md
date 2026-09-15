@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/deepanshu0619/CodeVault/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/deepanshu0619/CodeVault/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0327-count-of-range-sum) |
 | [0457-circular-array-loop](https://github.com/deepanshu0619/CodeVault/tree/master/0457-circular-array-loop) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/deepanshu0619/CodeVault/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/deepanshu0619/CodeVault/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0327-count-of-range-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/deepanshu0619/CodeVault/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0240-search-a-2d-matrix-ii) |
 | [0327-count-of-range-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0327-count-of-range-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -227,4 +230,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/deepanshu0619/CodeVault/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
