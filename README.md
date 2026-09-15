@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/deepanshu0619/CodeVault/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0327-count-of-range-sum) |
 | [0457-circular-array-loop](https://github.com/deepanshu0619/CodeVault/tree/master/0457-circular-array-loop) |
+| [0503-next-greater-element-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/deepanshu0619/CodeVault/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/deepanshu0619/CodeVault/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/deepanshu0619/CodeVault/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/deepanshu0619/CodeVault/tree/master/0143-reorder-list) |
+| [0503-next-greater-element-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/deepanshu0619/CodeVault/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepanshu0619/CodeVault/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## String
 |  |
