@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/deepanshu0619/CodeVault/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0724-find-pivot-index](https://github.com/deepanshu0619/CodeVault/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/deepanshu0619/CodeVault/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/deepanshu0619/CodeVault/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/deepanshu0619/CodeVault/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0918-maximum-sum-circular-subarray) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/deepanshu0619/CodeVault/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/deepanshu0619/CodeVault/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/deepanshu0619/CodeVault/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepanshu0619/CodeVault/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/deepanshu0619/CodeVault/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/deepanshu0619/CodeVault/tree/master/0739-daily-temperatures) |
 ## String
 |  |
 | ------- |
