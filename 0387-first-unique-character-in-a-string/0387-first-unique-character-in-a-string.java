@@ -1,16 +1,15 @@
 class Solution {
     public int firstUniqChar(String s) {
-        HashMap<Character, Integer> map = new HashMap<>();
+        int[] freq = new int[26];
 
-        // Count frequency
+        // Count frequency of each character
         for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+            freq[s.charAt(i) - 'a']++;
         }
 
-        // Find first unique character
+        // Find first character occurring only once
         for (int i = 0; i < s.length(); i++) {
-            if (map.get(s.charAt(i)) == 1) {
+            if (freq[s.charAt(i) - 'a'] == 1) {
                 return i;
             }
         }
