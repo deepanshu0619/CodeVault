@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/deepanshu0619/CodeVault/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/deepanshu0619/CodeVault/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/deepanshu0619/CodeVault/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/deepanshu0619/CodeVault/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepanshu0619/CodeVault/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepanshu0619/CodeVault/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/deepanshu0619/CodeVault/tree/master/0443-string-compression) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/deepanshu0619/CodeVault/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/deepanshu0619/CodeVault/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/deepanshu0619/CodeVault/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepanshu0619/CodeVault/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepanshu0619/CodeVault/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/deepanshu0619/CodeVault/tree/master/0457-circular-array-loop) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/deepanshu0619/CodeVault/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/deepanshu0619/CodeVault/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/deepanshu0619/CodeVault/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0240-search-a-2d-matrix-ii) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/deepanshu0619/CodeVault/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
