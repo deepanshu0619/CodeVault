@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/deepanshu0619/CodeVault/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/deepanshu0619/CodeVault/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/deepanshu0619/CodeVault/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/deepanshu0619/CodeVault/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/deepanshu0619/CodeVault/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepanshu0619/CodeVault/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepanshu0619/CodeVault/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/deepanshu0619/CodeVault/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/deepanshu0619/CodeVault/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/deepanshu0619/CodeVault/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/deepanshu0619/CodeVault/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/deepanshu0619/CodeVault/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/deepanshu0619/CodeVault/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -249,5 +251,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/deepanshu0619/CodeVault/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/deepanshu0619/CodeVault/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
