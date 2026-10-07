@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/deepanshu0619/CodeVault/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/deepanshu0619/CodeVault/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/deepanshu0619/CodeVault/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/deepanshu0619/CodeVault/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0383-ransom-note](https://github.com/deepanshu0619/CodeVault/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/deepanshu0619/CodeVault/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/deepanshu0619/CodeVault/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
