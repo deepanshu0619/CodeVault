@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/deepanshu0619/CodeVault/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/deepanshu0619/CodeVault/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/deepanshu0619/CodeVault/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/deepanshu0619/CodeVault/tree/master/1189-maximum-number-of-balloons) |
 ## Simulation
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/deepanshu0619/CodeVault/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/deepanshu0619/CodeVault/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/deepanshu0619/CodeVault/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/deepanshu0619/CodeVault/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0383-ransom-note](https://github.com/deepanshu0619/CodeVault/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/deepanshu0619/CodeVault/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/deepanshu0619/CodeVault/tree/master/1189-maximum-number-of-balloons) |
 ## Memoization
 |  |
 | ------- |
