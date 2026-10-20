@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/deepanshu0619/CodeVault/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/deepanshu0619/CodeVault/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/deepanshu0619/CodeVault/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0918-maximum-sum-circular-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/deepanshu0619/CodeVault/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/deepanshu0619/CodeVault/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/deepanshu0619/CodeVault/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0240-search-a-2d-matrix-ii) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/deepanshu0619/CodeVault/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Counting
 |  |
 | ------- |
