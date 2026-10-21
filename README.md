@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/deepanshu0619/CodeVault/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/deepanshu0619/CodeVault/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0142-linked-list-cycle-ii) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/deepanshu0619/CodeVault/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/deepanshu0619/CodeVault/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/deepanshu0619/CodeVault/tree/master/0206-reverse-linked-list) |
 ## Queue
