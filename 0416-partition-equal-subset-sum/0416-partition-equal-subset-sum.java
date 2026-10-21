@@ -27,3 +27,32 @@ class Solution {
         return solve(target, nums, 0);
     }
 }
+// class Solution {
+//     static boolean solve(int target,int nums[],int index){
+//         if(index>=nums.length){
+//             return false;
+//         }
+//         if(target==0){
+//             return true;
+//         }
+//         if(target<0){
+//             return ;
+//         }
+//         boolean incKaAns=solve(target-nums[index],nums,index+1);
+//         boolean excKaAns=solve(target,nums,index+1);
+//         return incKaAns||excKaAns;
+//     }
+//     public boolean canPartition(int[] nums) {
+//         int sum=0;
+//         int index=0;
+//         for(int num:nums){
+//             sum+=num;
+//         }
+//         if(sum%2!=0){
+//             return false;
+//         }
+//         int target=sum/2;
+//         boolean ans=solve(target,nums,index);
+//         return ans;
+//     }
+// }
