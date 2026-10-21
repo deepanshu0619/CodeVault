@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/deepanshu0619/CodeVault/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/deepanshu0619/CodeVault/tree/master/0322-coin-change) |
 | [0327-count-of-range-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0327-count-of-range-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0416-partition-equal-subset-sum) |
 | [0457-circular-array-loop](https://github.com/deepanshu0619/CodeVault/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/deepanshu0619/CodeVault/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0503-next-greater-element-ii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/deepanshu0619/CodeVault/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/deepanshu0619/CodeVault/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0416-partition-equal-subset-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/deepanshu0619/CodeVault/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -281,8 +283,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/deepanshu0619/CodeVault/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/deepanshu0619/CodeVault/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
