@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0018-4sum](https://github.com/deepanshu0619/CodeVault/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/deepanshu0619/CodeVault/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/deepanshu0619/CodeVault/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/deepanshu0619/CodeVault/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/deepanshu0619/CodeVault/tree/master/0074-search-a-2d-matrix) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/deepanshu0619/CodeVault/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/deepanshu0619/CodeVault/tree/master/0409-longest-palindrome) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/deepanshu0619/CodeVault/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/deepanshu0619/CodeVault/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/deepanshu0619/CodeVault/tree/master/0322-coin-change) |
