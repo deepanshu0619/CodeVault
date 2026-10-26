@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0057-insert-interval](https://github.com/deepanshu0619/CodeVault/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/deepanshu0619/CodeVault/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/deepanshu0619/CodeVault/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/deepanshu0619/CodeVault/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/deepanshu0619/CodeVault/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0240-search-a-2d-matrix-ii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/deepanshu0619/CodeVault/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/deepanshu0619/CodeVault/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -299,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0416-partition-equal-subset-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/deepanshu0619/CodeVault/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
