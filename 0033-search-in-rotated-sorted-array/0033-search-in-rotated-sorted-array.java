@@ -10,7 +10,6 @@ class Solution {
                 return guess;
             }
 
-            // Left half is sorted
             if (nums[guess] >= nums[low]) {
 
                 if (target >= nums[low] && target < nums[guess]) {
@@ -19,9 +18,7 @@ class Solution {
                     low = guess + 1;
                 }
 
-            } 
-            // Right half is sorted
-            else {
+            } else {
 
                 if (target > nums[guess] && target <= nums[high]) {
                     low = guess + 1;
