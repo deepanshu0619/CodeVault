@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0018-4sum](https://github.com/deepanshu0619/CodeVault/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/deepanshu0619/CodeVault/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/deepanshu0619/CodeVault/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/deepanshu0619/CodeVault/tree/master/0051-n-queens) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepanshu0619/CodeVault/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deepanshu0619/CodeVault/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/deepanshu0619/CodeVault/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/deepanshu0619/CodeVault/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/deepanshu0619/CodeVault/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/deepanshu0619/CodeVault/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0142-linked-list-cycle-ii) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/deepanshu0619/CodeVault/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/deepanshu0619/CodeVault/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0240-search-a-2d-matrix-ii) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/deepanshu0619/CodeVault/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deepanshu0619/CodeVault/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/deepanshu0619/CodeVault/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/deepanshu0619/CodeVault/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/deepanshu0619/CodeVault/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/deepanshu0619/CodeVault/tree/master/0051-n-queens) |
@@ -332,5 +336,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/deepanshu0619/CodeVault/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/deepanshu0619/CodeVault/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/deepanshu0619/CodeVault/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
